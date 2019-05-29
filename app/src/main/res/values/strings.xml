@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="message">Selamat Datang</string>
+    <string name="blank"></string>
+    <string name="zero">0</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="num1">Input 1</string>
+    <string name="num2">Input 2</string>
+    <string name="numbox">Number</string>
+    <string name="operator">Operator</string>
+    <string name="output">Output</string>
+    <string-array name="operators">
+        <item> + (Add)</item>
+        <item> - (Substract)</item>
+        <item> * (Multiply)</item>
+        <item> / (Divide)</item>
+    </string-array>
+
+</resources>
